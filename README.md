@@ -1,4 +1,14 @@
-### Hi there 👋
+### Ola, sou Fabricio Rodrigues!
+
+Estudante de programção na Trybe 👨‍💻.
+
+Modulos de estudo:
+- Desenvolvimento Weeb 🌀
+- FrontEnd 🖥️
+- Backend 🎲
+- introdução à ciencia da computação 🤖
+
+Atualmente estou etudando o modulo de BackEnd, aprendendo sobre SQL e JOINs. 
 
 <!--
 **FabricioAnastacio/FabricioAnastacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
