@@ -16,7 +16,7 @@
 </p>
 <h2>⚙️  Hard-Skills: </h2>
 <h4>- Fundamentos</h4>
-<div style={ display="inline-block" }>
+<div>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -48,6 +48,13 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img   src="https://camo.githubusercontent.com/75aae47c314f4e0e3c2729c983bbc8bd0f3e6e2728d71936ab1aa3c0251929bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54657374696e674c6962726172792d2532334533333333323f7374796c653d666f722d7468652d6261646765266c6f676f3d74657374696e672d6c696272617279266c6f676f436f6c6f723d7768697465"
   />
+</div>
+<hr>
+<h2>📊 Meus dados:</h2>
+<div style="display: flex">
+  <a href="https://github.com/FabricioAnastacio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAnastacio&layout=compact&theme=radical" />
+  </a>
 </div>
 <!--
 **FabricioAnastacio/FabricioAnastacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
