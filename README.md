@@ -6,7 +6,7 @@
 </p>
 
 <h4>Modulos de estudo:</h4>
-  <li>Fundamentos do JS, HTML e CSS  🌀</li>
+  <li>Fundamentos JS, HTML e CSS  🌀</li>
   <li>Front-end  🖥️</li>
   <li>Back-end  🎲</li>
   <li>Introdução à ciencia da computação  🤖</li>
