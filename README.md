@@ -1,7 +1,7 @@
 <h2> Ola, sou Fabricio Rodrigues! </h2>
 
 <p>
-  Estudante de programção na 
+  Estudante de programação na 
   <a href="https://www.betrybe.com/"  target="_blank">Trybe</a> 👨‍💻.
 </p>
 
