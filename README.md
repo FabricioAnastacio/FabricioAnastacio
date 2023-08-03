@@ -16,7 +16,7 @@
 </p>
 <h2>⚙️  Hard-Skills: </h2>
 <h4>- Fundamentos</h4>
-<div>
+<div style={ display="inline-block" }>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
