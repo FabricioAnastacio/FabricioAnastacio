@@ -12,7 +12,7 @@
   <li>Introdução à ciencia da computação  🤖</li>
 <p>
   
-  -> Atualmente estou etudando o modulo de Back-end, aprendendo sobre typeScript.
+  -> Atualmente estou etudando o modulo de CS.
 </p>
 <h2>⚙️  Hard-Skills: </h2>
 <h4>- Fundamentos</h4>
