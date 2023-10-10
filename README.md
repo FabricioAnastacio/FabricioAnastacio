@@ -1,24 +1,24 @@
 <h2> Ola, sou Fabricio Rodrigues! </h2>
 
 <p>
-  Estudante de programação na 
-  <a href="https://www.betrybe.com/"  target="_blank">Trybe</a> 👨‍💻.
+  Desenvolvedor Full-Stack 👨‍💻.
 </p>
 
-<h4>Modulos de estudo:</h4>
-  <li>Fundamentos JS, HTML e CSS  🌀</li>
-  <li>Front-end  🖥️</li>
-  <li>Back-end  🎲</li>
-  <li>Introdução à ciencia da computação  🤖</li>
+<p>Independente de qual stack estiver trabalhando, meu objetivo é aprender!</p>
+<p>Estudei Front-end e Back-end na Trybe e tenho conhecimentos de criação de uma pagina web full-stack completa.</p>
 <p>
   
-  -> Atualmente estou etudando o modulo de CS.
+  -> Atualmente estou buscando conhecimentos na linguagem C#.
 </p>
 <h2>⚙️  Hard-Skills: </h2>
 <h4>- Ambiente</h4>
 <div style={ display="inline-block" }>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
 </div>
 
 <h4>- Front-end</h4>
@@ -28,19 +28,21 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 
 <h4>- Back-end</h4>
 <div style={ display="inline-block" }>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
 </div>
 
 <h4>- Test</h4>
