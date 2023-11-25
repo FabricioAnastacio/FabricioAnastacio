@@ -55,11 +55,6 @@
 </div>
 <hr>
 <h2>📊 Meus dados:</h2>
-<div style="display: flex">
-  <a href="https://github.com/FabricioAnastacio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAnastacio&layout=compact&theme=radical" />
-  </a>
-</div>
 <!--
 **FabricioAnastacio/FabricioAnastacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
