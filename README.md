@@ -57,7 +57,7 @@
 <h2>📊 Meus dados:</h2>
 <div style="display: flex">
   <a href="https://github.com/FabricioAnastacio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAnastacio&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAnastacio&layout=compact&theme=dark" />
   </a>
 </div>
 <!--
