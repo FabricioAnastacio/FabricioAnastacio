@@ -5,7 +5,7 @@
 </p>
 
 <p>Independente de qual stack estiver trabalhando, meu objetivo é aprender!</p>
-<p>Estudei Front-end e Back-end na <a href="https://www.betrybe.com/"  target="_blank">Trybe</a> e tenho conhecimentos de criação de uma pagina web full-stack completa.</p>
+<p>Estudei Front-end e Back-end na <a href="https://www.betrybe.com/"  target="_blank">Trybe</a> e tenho conhecimentos em criação de uma pagina web full-stack completa.</p>
 <p>
   
   -> Atualmente estou buscando conhecimentos na linguagem C#.
