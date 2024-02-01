@@ -63,8 +63,6 @@
   </a>
 </div>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/-Fabricio%20A.%20Rodrigues-silver?style=plastic&color=white">
-
 <!--
 **FabricioAnastacio/FabricioAnastacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
