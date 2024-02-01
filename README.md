@@ -1,14 +1,11 @@
-<h2> Ola, sou Fabricio Rodrigues! </h2>
+<h2> Bem-vindo ao meu perfil! </h2>
 
 <p>
-  Desenvolvedor Full-Stack 👨‍💻.
+  Ola sou Fabricio A. Rodrigues, e sou apaixonado por tecnologia e adoro aprender. Meu objetivo aqui é compartilhar conhecimento colaborar em projetos e aprender com a comunidade.
 </p>
-
-<p>Independente de qual stack estiver trabalhando, meu objetivo é aprender!</p>
-<p>Estudei Front-end e Back-end na <a href="https://www.betrybe.com/"  target="_blank">Trybe</a> e tenho segurança para desenvolver uma pagina web full-stack completa.</p>
+<p> Atualmente estou aprimorando meus conhecimentos em TypeScript e JavaScript, e suas respectivas tecnologias, como React, Sequelize CLI, Express e Node.js</p>
+<p> Tenho vasto conhecimentos em algumas liguagens, como C#, JavaScript, TypeScrip e Python. Tenho segurança em desenvover usando essas linguagens e suas tecnologias, como React, Node.js, Express, Redux, Vite, .NET, ASP.NET, Sequelize, JSON Web Token (JWT)</p>
 <p>
-  
-  -> Atualmente estou buscando conhecimentos na linguagem C#.
 </p>
 <h2>⚙️  Hard-Skills: </h2>
 <h4>- Ambiente</h4>
@@ -49,6 +46,7 @@
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 </div>
 
 <h4>- Test</h4>
@@ -64,6 +62,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioAnastacio&layout=compact&theme=dark" />
   </a>
 </div>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/-Fabricio%20A.%20Rodrigues-silver?style=plastic&color=white">
+
 <!--
 **FabricioAnastacio/FabricioAnastacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
