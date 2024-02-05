@@ -4,7 +4,7 @@
   Ola sou Fabricio A. Rodrigues, e sou apaixonado por tecnologia e adoro aprender. Meu objetivo aqui é compartilhar conhecimento colaborar em projetos e aprender com a comunidade.
 </p>
 <p> Atualmente estou aprimorando meus conhecimentos em TypeScript e JavaScript, e suas respectivas tecnologias, como React, Sequelize CLI, Express e Node.js</p>
-<p> Tenho vasto conhecimentos em algumas liguagens, como C#, JavaScript, TypeScrip e Python. Tenho segurança em desenvover usando essas linguagens e suas tecnologias, como React, Node.js, Express, Redux, Vite, .NET, ASP.NET, Sequelize, JSON Web Token (JWT)</p>
+<p> Tenho conhecimentos em liguagens como, C#, JavaScript, TypeScrip e Python. Tenho segurança em desenvover usando essas linguagens e suas tecnologias, como React, Node.js, Express, Redux, Vite, .NET, ASP.NET, Sequelize, JSON Web Token (JWT)</p>
 <p>
 </p>
 <h2>⚙️  Hard-Skills: </h2>
